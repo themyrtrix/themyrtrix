@@ -1,4 +1,4 @@
-# Hi 👋, I'm Myrtle :D
+# Hi 👋, I'm Myrtle :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
