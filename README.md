@@ -13,7 +13,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=themyrtrix&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=themyrtrix&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-🕐 UTC+8 — Philippine Standard Time · Sunday, March 15, 2026
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
